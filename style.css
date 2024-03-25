@@ -1,0 +1,35 @@
+#PLAN{
+    background-color: #7feb96;
+    color: black;
+    border-radius: 15px;
+    border-color: #7feb96;
+}
+
+.card{
+    background-color:#8f79ff;
+}
+
+.TEXT{
+    color: black;
+}
+
+/* Link remove */
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+/*END*/
+
+.col-2{
+    margin: 1px;
+}
+
+#cat{
+    margin: 1px;
+}
+
+#SIGN-UP{
+    background-color: #8f79ff;
+    border-radius: 15px;
+    border-color: #8f79ff;
+}
